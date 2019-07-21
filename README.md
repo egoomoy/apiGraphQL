@@ -1,2 +1,3 @@
 # apiGraphQL
-api with GraphQL 
+
+api with GraphQL
