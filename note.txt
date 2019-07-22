@@ -1,0 +1,8 @@
+1. GraphQL 장점
+- over-fetching 방지
+- under-fetching 방지
+- 안전한 request , response 
+2. schema 
+schema.qraphlq -> Query vs. Mutation
+resovlers is something that resolve a Query.
+resolvers could go everywhare. (database, memory and return anything etc.)
